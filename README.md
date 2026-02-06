@@ -2,7 +2,7 @@
 
 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript, com o objetivo de apresentar meus projetos e habilidades na área de desenvolvimento.
 
-🔗 Portfólio online: https://nicollylauton.github.io/portfolio/
+🔗 Portfólio online: https://nicollylauton.github.io/meu-portfolio/
 
 ## Tecnologias utilizadas
 - HTML
